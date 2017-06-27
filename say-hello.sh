@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo Hello there.
+echo Good morning there.
 
